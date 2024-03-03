@@ -7,6 +7,9 @@
 *.dll
 *.so
 *.dylib
+build/bin
+node_modules
+frontend/dist
 
 # Test binary, built with `go test -c`
 *.test
